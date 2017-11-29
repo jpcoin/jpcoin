@@ -15,6 +15,15 @@ for asset ID CVaG5MZTLQ88WU1qVv4wXrfoEFXupoNEq77kv6XgqKeL
 
 TODO
 
-## Steering committee
+## Team
 
-TODO
+Founder, VP crypto, and visionary: [veorq](https://twitter.com/veorq)
+
+Steering committee:
+
+* [antisnatchor](https://twitter.com/antisnatchor)
+* [cynicalsecurity](https://twitter.com/cynicalsecurity)
+* [diagprov](https://twitter.com/diavprov)
+* [marver](https://twitter.com/marver)
+* [zx2c4](https://twitter.com/zx2c4)
+
