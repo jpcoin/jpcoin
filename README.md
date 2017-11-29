@@ -22,15 +22,6 @@ diagram of JPcoin value over time:
 
 ![jpcoin world domination graph](graph.jpg)
 
-## Testimonials / JPcoin rewards program
-
-Did you buy serious crypto? Are you serious about blockchain, ICOs and the one 
-true ICO JPcoin? Tweet to the steering committee with proof of your serious 
-purchase and you can receive some free JPcoin!
-
-Serious users have these stories to tell:
-
-![Tony loves ICOs!](tonylovesicos.jpg)
 
 ## Team
 
@@ -49,3 +40,13 @@ Steering committee:
 Image of coin not necessarily to scale. Actual coins may contain different images, depending on what we find funny. Prepared in a gluten-free facility. May contain traces of nuts or kernels, we're not sure. This document may be legally privileged and only for the intended recipients. If you are not the intended recipient, please run `dd if=/dev/zero of=/dev/sda bs=1M count=20` as root after setting fire to your backups, then reboot. 
 
 🌲 Please consider the environment before printing this page. 
+
+## Testimonials / JPcoin rewards program
+
+Did you buy serious crypto? Are you serious about blockchain, ICOs and the one 
+true ICO JPcoin? Tweet to the steering committee with proof of your serious 
+purchase and you can receive some free JPcoin!
+
+Serious users have these stories to tell:
+
+![Tony loves ICOs!](tonylovesicos.jpg)
