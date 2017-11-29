@@ -17,13 +17,18 @@ for asset ID CVaG5MZTLQ88WU1qVv4wXrfoEFXupoNEq77kv6XgqKeL
 
 TODO (marketing team note: seems unnecessary in the ICO market, let's wait for v1.0 to ship first).
 
+**Edit**: in the meeting about the founding meeting VP comms came up with this 
+diagram of JPcoin value over time:
+
+![jpcoin world domination graph](graph.jpg)
+
 ## Team
 
 Founder, VP crypto, Chief Chief Officer and visionary: [veorq](https://twitter.com/veorq)
 
 Steering committee:
 
-* [antisnatchor](https://twitter.com/antisnatchor) (President, Gourmet Catering and Estates (specifically Kitchens) Management)
+* [antisnatchor](https://twitter.com/antisnatchor) (VP Sales, Corporate Communication and Client Liaison)
 * [cynicalsecurity](https://twitter.com/cynicalsecurity) (Chairman, Advisor, SlackingTeam Liaison)
 * [diagprov](https://twitter.com/diavprov) (Chief BS Officer / Marketing Guru)
 * [marver](https://twitter.com/marver) (Chief Technical Officer, Blockchain Researcher)
