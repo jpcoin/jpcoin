@@ -19,12 +19,18 @@ TODO (marketing team note: seems unnecessary in the ICO market, let's wait for v
 
 ## Team
 
-Founder, VP crypto, and visionary: [veorq](https://twitter.com/veorq)
+Founder, VP crypto, Chief Chief Officer and visionary: [veorq](https://twitter.com/veorq)
 
 Steering committee:
 
 * [antisnatchor](https://twitter.com/antisnatchor) (President, Gourmet Catering and Estates (specifically Kitchens) Management)
 * [cynicalsecurity](https://twitter.com/cynicalsecurity) (Chairman, Advisor, SlackingTeam Liaison)
 * [diagprov](https://twitter.com/diavprov) (Chief BS Officer / Marketing Guru)
-* [marver](https://twitter.com/marver) 
+* [marver](https://twitter.com/marver) (Chief Technical Officer, Blockchain Researcher)
 * [zx2c4](https://twitter.com/zx2c4) (Chief InSecurity Officer / CISO)
+
+## Disclaimer
+
+Image of coin not necessarily to scale. Actual coins may contain different images, depending on what we find funny. Prepared in a gluten-free facility. May contain traces of nuts or kernels, we're not sure. This document may be legally privileged and only for the intended recipients. If you are not the intended recipient, please run `dd if=/dev/zero of=/dev/sda bs=1M count=20` as root after setting fire to your backups, then reboot. 
+
+🌲 Please consider the environment before printing this page. 
