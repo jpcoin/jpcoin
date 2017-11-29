@@ -1,5 +1,7 @@
 # jpcoin
 
+![jpcoin logo](jpcoin.png)
+
 the crypto cryptocoin!
 
 http://dev.pywaves.org/assets/CVaG5MZTLQ88WU1qVv4wXrfoEFXupoNEq77kv6XgqKeL
