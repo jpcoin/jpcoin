@@ -22,6 +22,16 @@ diagram of JPcoin value over time:
 
 ![jpcoin world domination graph](graph.jpg)
 
+## Testimonials / JPcoin rewards program
+
+Did you buy serious crypto? Are you serious about blockchain, ICOs and the one 
+true ICO JPcoin? Tweet to the steering committee with proof of your serious 
+purchase and you can receive some free JPcoin!
+
+Serious users have these stories to tell:
+
+![Tony loves ICOs!](tonylovesicos.jpg)
+
 ## Team
 
 Founder, VP crypto, Chief Chief Officer and visionary: [veorq](https://twitter.com/veorq)
