@@ -15,7 +15,7 @@ for asset ID CVaG5MZTLQ88WU1qVv4wXrfoEFXupoNEq77kv6XgqKeL
 
 ## Business model
 
-TODO
+TODO (marketing team note: seems unnecessary in the ICO market, let's wait for v1.0 to ship first).
 
 ## Team
 
@@ -23,9 +23,8 @@ Founder, VP crypto, and visionary: [veorq](https://twitter.com/veorq)
 
 Steering committee:
 
-* [antisnatchor](https://twitter.com/antisnatchor)
-* [cynicalsecurity](https://twitter.com/cynicalsecurity)
-* [diagprov](https://twitter.com/diavprov)
-* [marver](https://twitter.com/marver)
-* [zx2c4](https://twitter.com/zx2c4)
-
+* [antisnatchor](https://twitter.com/antisnatchor) (President, Gourmet Catering and Estates (specifically Kitchens) Management)
+* [cynicalsecurity](https://twitter.com/cynicalsecurity) (Chairman, Advisor, SlackingTeam Liaison)
+* [diagprov](https://twitter.com/diavprov) (Chief BS Officer / Marketing Guru)
+* [marver](https://twitter.com/marver) 
+* [zx2c4](https://twitter.com/zx2c4) (Chief InSecurity Officer / CISO)
