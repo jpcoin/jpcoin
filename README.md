@@ -19,6 +19,16 @@ for asset ID CVaG5MZTLQ88WU1qVv4wXrfoEFXupoNEq77kv6XgqKeL
 
 TODO (marketing team note: seems unnecessary in the ICO market, let's wait for v1.0 to ship first).
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en"
+dir="ltr">The market value of JPCoin is already over €10 million. <a
+href="https://t.co/N6mi3Ex58e">https://t.co/N6mi3Ex58e</a></p>&mdash;
+the grugq (@thegrugq) <a
+href="https://twitter.com/thegrugq/status/936123561021915138?ref_src=twsrc%5Etfw">November
+30, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js"
+charset="utf-8"></script>
+
+
 **Edit**: in the meeting about the founding meeting VP comms came up with this 
 diagram of JPcoin value over time:
 
@@ -38,6 +48,7 @@ Steering committee:
 * [zx2c4](https://twitter.com/zx2c4) (Chief InSecurity Officer / CISO)
 
 External cyberwar advisor: [grugq](https://twitter.com/thegrugq)
+
 
 ## Client
 
