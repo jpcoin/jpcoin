@@ -1,6 +1,6 @@
 # jpcoin
 
-![jpcoin logo](jpcoin.png)
+![coinz](coinz.jpg)
 
 the crypto cryptocoin!
 
